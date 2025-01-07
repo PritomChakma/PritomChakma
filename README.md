@@ -57,14 +57,16 @@ const PritomChakma = {
 <div align="center" > <a href="https://www.linkedin.com/in/pritomchakma/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic" alt="LinkedIn"> </a> <a href="mailto:chakmapritom1@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic" alt="Email"> </a> <a href="https://www.facebook.com/pritom.chakma.716?mibextid=LQQJ4d"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&style=plastic" alt="Facebook"> </a> </div>
 
 
-<div align="center">
-  <div style="display: inline-block; margin-right: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pritomchakma&show_icons=true&locale=en&layout=compact" alt="Pritom Chakma's Top Languages" />
+<h2 align="center">⚡ Status ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PritomChakma&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
   </div>
-  <div style="display: inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api?username=pritomchakma&show_icons=true&locale=en" alt="Pritom Chakma's GitHub Stats" />
-  </div>
-</div>
+  <br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PritomChakma&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
 
 
 
