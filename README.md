@@ -55,6 +55,12 @@ const PritomChakma = {
 
 ### 🤝 Connect with Me 🤝
 <div align="center" > <a href="https://www.linkedin.com/in/pritomchakma/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic" alt="LinkedIn"> </a> <a href="mailto:chakmapritom1@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic" alt="Email"> </a> <a href="https://www.facebook.com/pritom.chakma.716?mibextid=LQQJ4d"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&style=plastic" alt="Facebook"> </a> </div>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritomchakma&show_icons=true&locale=en&layout=compact" alt="pritomchakma" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritomchakma&show_icons=true&locale=en" alt="pritomchakma" /></p>
+
+
 <h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6CE4F7&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=Thanks+for+Visiting+%F0%9F%91%8B" alt="Typing SVG" /> </h1>
 
 
@@ -70,9 +76,7 @@ const PritomChakma = {
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritomchakma&show_icons=true&locale=en&layout=compact" alt="pritomchakma" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritomchakma&show_icons=true&locale=en" alt="pritomchakma" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritomchakma&" alt="pritomchakma" /></p>
+
 
