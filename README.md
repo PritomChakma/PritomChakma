@@ -21,8 +21,8 @@
 const PritomChakma = {
   location: "Bangladesh 🇧🇩",
   currentFocus: "Creating impactful web solutions 🌐",
-  workingOn: ["React ⚛️", "Next.js 🔥", "TypeScript 💪"],
-  learning: ["JavaScript", "Node.js 💚", "AWS ☁️"],
+  workingOn: ["React ⚛️", "Next.js 🔥", "MongoDb 💪"],
+  learning: ["JavaScript", "Node.js 💚"],
   askMeAbout: ["Web Dev 💻", "Tech Trends 🚀", "Community Building 🤝"],
   hobbies: ["Gaming 🎮", "Coffee Enthusiast ☕"],
   funFact: "I debug with caffeine and celebrate with memes! 😄",
@@ -57,5 +57,5 @@ const PritomChakma = {
 
 ### 🤝 Connect with Me 🤝
 
-<div align="center"> <a href="https://www.linkedin.com/in/pritomchakma/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic" alt="LinkedIn"> </a> <a href="mailto:chakmapritom1@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic" alt="Email"> </a> <a href="https://www.facebook.com/pritom.chakma.716?mibextid=LQQJ4d"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&style=plastic" alt="Facebook"> </a> </div>
+<div > <a href="https://www.linkedin.com/in/pritomchakma/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic" alt="LinkedIn"> </a> <a href="mailto:chakmapritom1@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic" alt="Email"> </a> <a href="https://www.facebook.com/pritom.chakma.716?mibextid=LQQJ4d"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&style=plastic" alt="Facebook"> </a> </div>
 <h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6CE4F7&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=Thanks+for+Visiting+%F0%9F%91%8B" alt="Typing SVG" /> </h1>
