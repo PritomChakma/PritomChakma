@@ -57,7 +57,7 @@ const PritomChakma = {
 <div align="center" > <a href="https://www.linkedin.com/in/pritomchakma/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic" alt="LinkedIn"> </a> <a href="mailto:chakmapritom1@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic" alt="Email"> </a> <a href="https://www.facebook.com/pritom.chakma.716?mibextid=LQQJ4d"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&style=plastic" alt="Facebook"> </a> </div>
 
 
-<div align="center">
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pritomchakma&show_icons=true&locale=en&layout=compact" alt="Pritom Chakma's Top Languages" />
   </p>
@@ -65,6 +65,7 @@ const PritomChakma = {
     <img src="https://github-readme-stats.vercel.app/api?username=pritomchakma&show_icons=true&locale=en" alt="Pritom Chakma's GitHub Stats" />
   </p>
 </div>
+
 
 
 
