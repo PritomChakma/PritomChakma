@@ -58,12 +58,12 @@ const PritomChakma = {
 
 
 <div style="display: flex; align-items: center; justify-content: center;">
-  <p>
+<div>  <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pritomchakma&show_icons=true&locale=en&layout=compact" alt="Pritom Chakma's Top Languages" />
-  </p>
-  <p>
+  </p></div>
+<div>  <p>
     <img src="https://github-readme-stats.vercel.app/api?username=pritomchakma&show_icons=true&locale=en" alt="Pritom Chakma's GitHub Stats" />
-  </p>
+  </p></div>
 </div>
 
 
