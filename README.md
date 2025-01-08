@@ -2,8 +2,13 @@
 
 
 <div align="center">
-  <img height="180" src="https://i.ibb.co/j4GXGZh/banner.png"  />
+  <picture>
+    <source media="(max-width: 768px)" srcset="https://i.ibb.co/YkGFWFB/mobile-banner.png" />
+    <source media="(max-width: 1200px)" srcset="https://i.ibb.co/1TzTnBj/tablet-banner.png" />
+    <img height="180" src="https://i.ibb.co/j4GXGZh/banner.png" alt="Responsive Banner" />
+  </picture>
 </div>
+
 
 
 
