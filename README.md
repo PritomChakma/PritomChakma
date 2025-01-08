@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pritom Chakma</h1>
 
 <div align="center">
-  <img height="180" src="https://i.ibb.co/j4GXGZh/banner.png"  />
+  <img height="150" src="https://i.ibb.co/j4GXGZh/banner.png"  />
 </div>
 
 ###
