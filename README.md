@@ -3,8 +3,10 @@
 
 ###
 <div align="center">
-  <img height="150" src="https://i.ibb.co/j4GXGZh/banner.png"  />
+  <img height="180" src="https://i.ibb.co/Wx6CnBc/Black-and-White-Gradient-Personal-Linked-In-Banner.png"  />
 </div>
+
+
 
 ###
 
