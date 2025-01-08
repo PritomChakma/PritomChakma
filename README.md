@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pritom Chakma</h1>
 
 
-###
 <div align="center">
-  <img height="180" src="https://i.ibb.co/Wx6CnBc/Black-and-White-Gradient-Personal-Linked-In-Banner.png"  />
+  <img height="180" src="https://i.ibb.co/j4GXGZh/banner.png"  />
 </div>
+
+
 
 
 
