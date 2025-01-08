@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pritom Chakma</h1>
 
-
 <div align="center">
   <img height="150" src="https://i.ibb.co/SfHjdVX/banner.png"  />
 </div>
