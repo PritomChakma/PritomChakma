@@ -18,7 +18,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rokib97&style=for-the-badge&color=0e75b6&label=Profile+Views" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=PritomChakma&style=for-the-badge&color=0e75b6&label=Profile+Views" alt="Profile Views">
 </div>
 
 <div align="center">
