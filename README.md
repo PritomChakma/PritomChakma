@@ -81,12 +81,14 @@ const PritomChakma = {
 <div align="center" > <a href="https://www.linkedin.com/in/pritomchakma/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic" alt="LinkedIn"> </a> <a href="mailto:chakmapritom1@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic" alt="Email"> </a> <a href="https://www.facebook.com/pritom.chakma.716?mibextid=LQQJ4d"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&style=plastic" alt="Facebook"> </a> </div>
 
 
-## ⚡ GitHub Stats & Activity  
+## ⚡ GitHub Stats & Activity
+
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PritomChakma&show_icons=true&theme=react&hide_border=true&bg_color=20232a&title_color=61dafb&icon_color=61dafb" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PritomChakma&theme=react&hide_border=true&background=20232a&stroke=61dafb" />
 </p>
+
 
 <p align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PritomChakma&theme=react" />
@@ -98,8 +100,11 @@ const PritomChakma = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PritomChakma&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
+---
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6CE4F7&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=Thanks+for+Visiting+%F0%9F%91%8B" alt="Typing SVG" />
+</h1>
 
-<h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6CE4F7&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=Thanks+for+Visiting+%F0%9F%91%8B" alt="Typing SVG" /> </h1>
 
 
