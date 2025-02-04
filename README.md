@@ -46,27 +46,34 @@ const PritomChakma = {
 
    ###                                         <h2 >🛠️ Technologies & Tools 🛠️</h2>              
 <div align="center" style="margin-top: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
 </div>
 
-### 🔥 What I'm Working On
 
-- 🌱 Enhancing my backend skills by learning **Node.js** and **MongoDB** to build scalable applications.
-- ⚡ Fun fact: I started as a frontend developer, but now I'm diving into backend technologies! The journey of building full-stack applications from scratch is truly exciting
+## 🔥 What I'm Working On  
+
+- 🔭 I’m currently working on **Bistro Boss**, a **Restaurant Website**.  
+- 🌱 Enhancing my **backend skills** by learning **Node.js** and **MongoDB** to build **scalable applications**.  
+- ⚡ **Fun fact**: I started as a **frontend developer**, but now I'm diving into **backend technologies**!  
+- 🚀 **The journey of building full-stack applications from scratch is truly exciting!**  
+
+---
 
 
 
@@ -87,12 +94,9 @@ const PritomChakma = {
 </p>
 
 
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PritomChakma&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-
-
 
 
 
