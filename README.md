@@ -1,5 +1,6 @@
 <div align="center">
-<a href="https://ibb.co.com/KpHGsbcY"><img src="https://i.ibb.co.com/ZpCJgGR3/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" alt="Navy-Blue-Geometric-Technology-Linked-In-Banner" border="0" /></a></div>
+  <img height="500" src="https://i.ibb.co.com/sdrP1bph/Navy-Blue-Geometric-Technology-Linked-In-Banner.png"  />
+</div>
 
 ###
 
@@ -21,7 +22,7 @@
 ---
 
 
-### Hi👋, I'm Pritom Chakma! A passionate Frontend Developer from Bangladesh. Welcome to my profile!
+### Hi👋, I'm Pritom Chakma! A passionate MERN Stack Developer from Bangladesh. Welcome to my profile!
 
 My development journey started with HTML, CSS, and JavaScript. Now, I specialize in modern frameworks and libraries like React.js and Tailwind CSS to build responsive, dynamic, and visually appealing web applications.
 
@@ -33,10 +34,8 @@ const PritomChakma = {
   location: "Bangladesh 🇧🇩",
   currentFocus: "Creating impactful web solutions 🌐",
   workingOn: ["React ⚛️", "Next.js 🔥", "MongoDb 💪"],
-  learning: ["JavaScript", "Node.js 💚"],
+  learning: ["JavaScript", "TypeScript" "Node.js 💚"],
   askMeAbout: ["Web Dev 💻", "Tech Trends 🚀", "Community Building 🤝"],
-  hobbies: ["Gaming 🎮", "Coffee Enthusiast ☕"],
-  funFact: "I debug with caffeine and celebrate with memes! 😄",
   reachMe: "chakmapritom1@gmail.com",
 };
 
@@ -63,14 +62,6 @@ const PritomChakma = {
 </div>
 
 
-## 🔥 What I'm Working On  
-
-- 🔭 I’m currently working on **Bistro Boss**, a **Restaurant Website**.  
-- 🌱 Enhancing my **backend skills** by learning **Node.js** and **MongoDB** to build **scalable applications**.  
-- ⚡ **Fun fact**: I started as a **frontend developer**, but now I'm diving into **backend technologies**!  
-- 🚀 **The journey of building full-stack applications from scratch is truly exciting!**  
-
----
 
 
 
